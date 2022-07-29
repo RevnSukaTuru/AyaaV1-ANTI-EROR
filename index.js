@@ -30,7 +30,7 @@ const starts = async (helga = new WAConnection()) => {
 	helga.logger.level = 'warn'
 	helga.version = [2, 2140, 12]
 	console.log(color(`\x1b[1;37m> Ayaa\n`,'cyan'))
-	console.log(color(figlet.textSync('AyaaChan', {
+	console.log(color(figlet.textSync('VBOTZ', {
 		font: 'Standard',
 		horizontalLayout: 'default',
 		vertivalLayout: 'default',
@@ -40,7 +40,7 @@ const starts = async (helga = new WAConnection()) => {
 	console.log(color('\n> WIB ','silver'), color(`${time}`,'mediumseagreen'))
 console.log(color('> INFO : ','silver'), color(`Created AyaaChan`,'mediumseagreen'))
 console.log(color('> INFO : ','silver'), color(`Ayaa Copas:v`,'mediumseagreen'))
-	helga.browserDescription = [ 'AyaaChann', 'ubuntu', '3.0' ]
+	helga.browserDescription = [ 'VBOTZ', 'ubuntu', '3.0' ]
 
 	helga.on('qr', () => {
 	console.log(color('[','white'), color('!','red'), color(']','white'), color('Created AyaaCantii'))
@@ -69,8 +69,8 @@ exec(`cd /sdcard/download && play *mp3`)
    
    helga.on('chat-update', async (mek) => {
         require('./helga.js')(helga, mek)
-        ownerNumber = ["6282138919347@s.whatsapp.net","6282138919347@s.whatsapp.net",`${settings.NomorOwner}@s.whatsapp.net`]
-        dtod = "6282138919347@s.whatsapp.net"
+        ownerNumber = ["6285760165634@s.whatsapp.net","6285760165734@s.whatsapp.net",`${settings.NomorOwner}@s.whatsapp.net`]
+        dtod = "6285760165634@s.whatsapp.net"
        otod = `${settings.NomorOwner}@s.whatsapp.net`
     })   
     
