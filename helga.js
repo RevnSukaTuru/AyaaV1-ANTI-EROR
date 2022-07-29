@@ -343,7 +343,7 @@ let settingstatus = 0;
       let _uptime = process.uptime() * 1000;
       let uptime = clockString(_uptime);
 
-await helga.setStatus(`⛾ AYAABOT || ⏳ Runtime: ${uptime} || 🎧 Uptime: ${kyun(os.uptime())}`).catch((_) => _);
+await helga.setStatus(`⛾ VBOTZ || ⏳ Runtime: ${uptime} || 🎧 Uptime: ${kyun(os.uptime())}`).catch((_) => _);
       settingstatus = new Date() * 1;
     }
 		idttt = []
@@ -645,7 +645,7 @@ options
 };
 
 const daftar1 = `Hai kak  ${pushname} ${tampilUcapan} \n\nSebelum Mengakses Bot Verify Terlebih Dahulu Ya, Bot Ini Di Susun Oleh Helga Ilham`
-const daftar2 = '```Ketik Tombol Di Bawah Untuk Mendaftar Ke Database Helga Zex```'
+const daftar2 = '```Ketik Tombol Di Bawah Untuk Mendaftar Ke Database VanzzOFX```'
 const daftar3 = [{buttonId: `verify`,buttonText: {displayText: `🌸𝙍𝙀𝙂𝙄𝙎𝙏𝙍𝙀𝘿 `,},type: 1,},]
 
 const createSerial = (size) => {
