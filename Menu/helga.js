@@ -5,9 +5,9 @@ Silahkan Pilih Untuk Menampilkan Menu Bot
 
     『 BOT INFO 』
 
-*࿊⃟〽️* Device : Poco X3 
+*࿊⃟〽️* Device : Realme C2
 *࿊⃟〽️* Wa Version : 2.21.11.17
-*࿊⃟〽️* OS Version : 11
+*࿊⃟〽️* OS Version : 10
 *࿊⃟〽️* MNC : 001
 *࿊⃟〽️* MCC : 510
 *࿊⃟〽️* Platfrom : ${os.platform()}
